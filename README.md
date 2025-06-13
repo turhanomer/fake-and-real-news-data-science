@@ -4,6 +4,8 @@ Bu proje, makine öğrenmesi teknikleri kullanarak haber metinlerinin gerçek ve
 
 ## Veri Seti Hakkında
 
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 Proje iki ana veri seti kullanmaktadır:
 - `True.csv`: Güvenilir kaynaklardan alınmış gerçek haber makaleleri
 - `Fake.csv`: Tespit edilmiş sahte haber makaleleri
@@ -16,7 +18,6 @@ Her haber makalesi şu bilgileri içermektedir:
 
 ## Teknik Gereksinimler
 
-- Python 3.8 veya üzeri
 - Gerekli Python paketleri (requirements.txt dosyasında belirtilmiştir):
   - scikit-learn
   - pandas
